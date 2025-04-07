@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou o Nathanael Rodrigues! 
+#  Olá, eu sou o Nathanael Rodrigues! 
 
 **`Desenvolvedor Full Stack & Cientista de Dados em Formação`**  
-*Rio de Janeiro, Brasil | [estagionathan@gmail.com](mailto:estagionathan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui/)*
+*Rio de Janeiro, Brasil | [estagionathan@gmail.com](mailto:estagionathan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nathanael-rodrigues-857899206/)*
 
 ---
 
@@ -24,12 +24,18 @@ Sou um profissional em transição de carreira, mergulhando no universo da tecno
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-311C87?style=flat&logo=deepmind&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ### **Ferramentas**  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 
+---
+
+## 📊 **GitHub Stats**  
+| ![Estatísticas](https://github-readme-stats.vercel.app/api?username=SrTchum&show_icons=true&theme=dark&hide_border=true) | ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SrTchum&layout=compact&theme=dark&hide_border=true) |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 
 ---
 
