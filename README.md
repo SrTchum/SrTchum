@@ -30,19 +30,6 @@ Sou um profissional em transição de carreira, mergulhando no universo da tecno
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-
-## 📚 **Projetos Destacados**  
-*(Adicione links para seus projetos aqui! Exemplo:)*  
-
-### **1. Sistema de Gestão Logística (Python/Django)**  
-- Dashboard para controle de estoque e rotas de entrega.  
-- Integração com API de geolocalização.  
-
-### **2. Análise de Dados de Varejo (Power BI/Tableau)**  
-- Visualização interativa de tendências de consumo para a South & Co.  
-- Modelo preditivo de demanda sazonal.  
 
 ---
 
@@ -51,12 +38,6 @@ Sou um profissional em transição de carreira, mergulhando no universo da tecno
   `HTML/CSS | Python | Django | Metodologia 100% prática`  
 - **Ciência de Dados e IA** | (Nome da Instituição)  
   `Machine Learning | Deep Learning | SQL | Power BI | Big Data`  
-
----
-
-## 🌟 **Soft Skills**  
-✅ **Proatividade** | ✅ **Trabalho em Equipe** | ✅ **Resiliência**  
-✅ **Comunicação Clara** | ✅ **Pensamento Analítico**  
 
 ---
 
